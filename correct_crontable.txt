@@ -1,0 +1,8 @@
+0 5 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 1 # schedule_1_1
+10 5 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 2 # schedule_1_2
+20 5 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 3 # schedule_1_3
+30 5 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 4 # schedule_1_4
+40 5 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 5 # schedule_1_5
+50 5 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 6 # schedule_1_6
+0 6 * * SUN,MON,WED,FRI /home/william/Retic_Controller/retic 0 # schedule_1_off
+@reboot sleep 5; /home/william/Retic_Controller/retic 0 # initialize_retic
