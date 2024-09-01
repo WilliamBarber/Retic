@@ -1,13 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <wiringPi.h>
-
-#define RETIC_1 26
-#define RETIC_2 19
-#define RETIC_3 13
-#define RETIC_4 11
-#define RETIC_5 9
-#define RETIC_6 10
+#include "retic.h"
 
 void initializePins(int* pins);
 void zeroAllPins(int* pins);
