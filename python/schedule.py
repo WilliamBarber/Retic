@@ -2,7 +2,7 @@ from crontab import CronTab
 import datetime
 import subprocess
 
-log_messages = True
+log_messages = False
 
 class JobSpec:
     def __init__(self, days_of_week:list[str], start_hour:int, start_minute:int, duration:int, enabled:bool):
