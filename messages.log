@@ -1,0 +1,7524 @@
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+push new temporary schedule starting at 10:20 and duration 7
+create temporary job starting at 10:20:00 for station 2
+old date_time created as 2024-08-01 10:20:00
+new date_time created as 2024-08-01 10:27:00
+new time created as 10:27:00
+job will be run at 10:27
+at generated the following stderr: <_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout: <_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:20:00 for station 3
+old date_time created as 2024-08-01 10:20:00
+new date_time created as 2024-08-01 10:34:00
+new time created as 10:34:00
+job will be run at 10:34
+at generated the following stderr: <_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout: <_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:20:00 for station 4
+old date_time created as 2024-08-01 10:20:00
+new date_time created as 2024-08-01 10:41:00
+new time created as 10:41:00
+job will be run at 10:41
+at generated the following stderr: <_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout: <_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:20:00 for station 5
+old date_time created as 2024-08-01 10:20:00
+new date_time created as 2024-08-01 10:48:00
+new time created as 10:48:00
+job will be run at 10:48
+at generated the following stderr: <_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout: <_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:20:00 for station 6
+old date_time created as 2024-08-01 10:20:00
+new date_time created as 2024-08-01 10:55:00
+new time created as 10:55:00
+job will be run at 10:55
+at generated the following stderr: <_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout: <_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:20:00 for station 0
+old date_time created as 2024-08-01 10:20:00
+new date_time created as 2024-08-01 11:02:00
+new time created as 11:02:00
+job will be run at 11:2
+at generated the following stderr: <_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout: <_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 139
+removing job with id 140
+removing job with id 141
+removing job with id 137
+removing job with id 138
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0 duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0 duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30 duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:26 and duration 10
+create temporary job starting at 10:26:00 for station 2
+old date_time created as 2024-08-01 10:26:00
+new date_time created as 2024-08-01 10:36:00
+new time created as 10:36:00
+job will be run at 10:36:00
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:27 and duration 10
+create temporary job starting at 10:27:00 for station 2
+old date_time created as 2024-08-01 10:27:00
+new date_time created as 2024-08-01 10:37:00
+new time created as 10:37:00
+job will be run at 10:37:00
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:33 and duration 10
+create temporary job starting at 10:33:00 for station 2
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 10:43:00
+new time created as 10:43:00
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:33 and duration 10
+create temporary job starting at 10:33:00 for station 2
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 10:43:00
+new time created as 10:43:00
+job will be run at 1043
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:33:00 for station 3
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 10:53:00
+new time created as 10:53:00
+job will be run at 1053
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:33:00 for station 4
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 11:03:00
+new time created as 11:03:00
+job will be run at 1103
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:33:00 for station 5
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 11:13:00
+new time created as 11:13:00
+job will be run at 1113
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:33:00 for station 6
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 11:23:00
+new time created as 11:23:00
+job will be run at 1123
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:33:00 for station 0
+old date_time created as 2024-08-01 10:33:00
+new date_time created as 2024-08-01 11:33:00
+new time created as 11:33:00
+job will be run at 1133
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 145
+removing job with id 143
+removing job with id 144
+removing job with id 147
+removing job with id 146
+removing job with id 142
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:34 and duration 10
+create temporary job starting at 10:34:00 for station 2
+old date_time created as 2024-08-01 10:34:00
+new date_time created as 2024-08-01 10:44:00
+new time created as 10:44:00
+job will be run at 10:44
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:34:00 for station 3
+old date_time created as 2024-08-01 10:34:00
+new date_time created as 2024-08-01 10:54:00
+new time created as 10:54:00
+job will be run at 10:54
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:34:00 for station 4
+old date_time created as 2024-08-01 10:34:00
+new date_time created as 2024-08-01 11:04:00
+new time created as 11:04:00
+job will be run at 11:04
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:34:00 for station 5
+old date_time created as 2024-08-01 10:34:00
+new date_time created as 2024-08-01 11:14:00
+new time created as 11:14:00
+job will be run at 11:14
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:34:00 for station 6
+old date_time created as 2024-08-01 10:34:00
+new date_time created as 2024-08-01 11:24:00
+new time created as 11:24:00
+job will be run at 11:24
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+create temporary job starting at 10:34:00 for station 0
+old date_time created as 2024-08-01 10:34:00
+new date_time created as 2024-08-01 11:34:00
+new time created as 11:34:00
+job will be run at 11:34
+at generated the following stderr
+<_io.TextIOWrapper name=8 encoding='UTF-8'>
+at generated the following stdout
+<_io.TextIOWrapper name=6 encoding='UTF-8'>
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 151
+removing job with id 148
+removing job with id 150
+removing job with id 153
+removing job with id 152
+removing job with id 149
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:41 and duration 7
+create temporary job starting at 10:41:00 for station 2
+old date_time created as 2024-08-01 10:41:00
+new date_time created as 2024-08-01 10:48:00
+new time created as 10:48:00
+job will be run at 10:48
+at generated the following stderr
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:43 and duration 1
+create temporary job starting at 10:43:00 for station 2
+old date_time created as 2024-08-01 10:43:00
+new date_time created as 2024-08-01 10:44:00
+new time created as 10:44:00
+job will be run at 10:44
+at generated the following stderr
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:44 and duration 1
+create temporary job starting at 10:44:00 for station 2
+old date_time created as 2024-08-01 10:44:00
+new date_time created as 2024-08-01 10:45:00
+new time created as 10:45:00
+job will be run at 10:45
+at generated the following stdout
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 154
+removing job with id 156
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:46 and duration 1
+create temporary job starting at 10:46:00 for station 2
+old date_time created as 2024-08-01 10:46:00
+new date_time created as 2024-08-01 10:47:00
+new time created as 10:47:00
+job will be run at 10:47
+at generated the following stderr
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:48 and duration 1
+create temporary job starting at 10:48:00 for station 2
+old date_time created as 2024-08-01 10:48:00
+new date_time created as 2024-08-01 10:49:00
+new time created as 10:49:00
+job will be run at 10:49
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+ 
+c
+o
+m
+m
+a
+n
+d
+s
+ 
+w
+i
+l
+l
+ 
+b
+e
+ 
+e
+x
+e
+c
+u
+t
+e
+d
+ 
+u
+s
+i
+n
+g
+ 
+/
+b
+i
+n
+/
+s
+h
+
+
+j
+o
+b
+ 
+1
+5
+8
+ 
+a
+t
+ 
+F
+r
+i
+ 
+A
+u
+g
+ 
+ 
+9
+ 
+1
+0
+:
+4
+9
+:
+0
+0
+ 
+2
+0
+2
+4
+
+
+job added to queue
+create temporary job starting at 10:48:00 for station 3
+old date_time created as 2024-08-01 10:48:00
+new date_time created as 2024-08-01 10:50:00
+new time created as 10:50:00
+job will be run at 10:50
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+ 
+c
+o
+m
+m
+a
+n
+d
+s
+ 
+w
+i
+l
+l
+ 
+b
+e
+ 
+e
+x
+e
+c
+u
+t
+e
+d
+ 
+u
+s
+i
+n
+g
+ 
+/
+b
+i
+n
+/
+s
+h
+
+
+j
+o
+b
+ 
+1
+5
+9
+ 
+a
+t
+ 
+F
+r
+i
+ 
+A
+u
+g
+ 
+ 
+9
+ 
+1
+0
+:
+5
+0
+:
+0
+0
+ 
+2
+0
+2
+4
+
+
+job added to queue
+create temporary job starting at 10:48:00 for station 4
+old date_time created as 2024-08-01 10:48:00
+new date_time created as 2024-08-01 10:51:00
+new time created as 10:51:00
+job will be run at 10:51
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+ 
+c
+o
+m
+m
+a
+n
+d
+s
+ 
+w
+i
+l
+l
+ 
+b
+e
+ 
+e
+x
+e
+c
+u
+t
+e
+d
+ 
+u
+s
+i
+n
+g
+ 
+/
+b
+i
+n
+/
+s
+h
+
+
+j
+o
+b
+ 
+1
+6
+0
+ 
+a
+t
+ 
+F
+r
+i
+ 
+A
+u
+g
+ 
+ 
+9
+ 
+1
+0
+:
+5
+1
+:
+0
+0
+ 
+2
+0
+2
+4
+
+
+job added to queue
+create temporary job starting at 10:48:00 for station 5
+old date_time created as 2024-08-01 10:48:00
+new date_time created as 2024-08-01 10:52:00
+new time created as 10:52:00
+job will be run at 10:52
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+ 
+c
+o
+m
+m
+a
+n
+d
+s
+ 
+w
+i
+l
+l
+ 
+b
+e
+ 
+e
+x
+e
+c
+u
+t
+e
+d
+ 
+u
+s
+i
+n
+g
+ 
+/
+b
+i
+n
+/
+s
+h
+
+
+j
+o
+b
+ 
+1
+6
+1
+ 
+a
+t
+ 
+F
+r
+i
+ 
+A
+u
+g
+ 
+ 
+9
+ 
+1
+0
+:
+5
+2
+:
+0
+0
+ 
+2
+0
+2
+4
+
+
+job added to queue
+create temporary job starting at 10:48:00 for station 6
+old date_time created as 2024-08-01 10:48:00
+new date_time created as 2024-08-01 10:53:00
+new time created as 10:53:00
+job will be run at 10:53
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+ 
+c
+o
+m
+m
+a
+n
+d
+s
+ 
+w
+i
+l
+l
+ 
+b
+e
+ 
+e
+x
+e
+c
+u
+t
+e
+d
+ 
+u
+s
+i
+n
+g
+ 
+/
+b
+i
+n
+/
+s
+h
+
+
+j
+o
+b
+ 
+1
+6
+2
+ 
+a
+t
+ 
+F
+r
+i
+ 
+A
+u
+g
+ 
+ 
+9
+ 
+1
+0
+:
+5
+3
+:
+0
+0
+ 
+2
+0
+2
+4
+
+
+job added to queue
+create temporary job starting at 10:48:00 for station 0
+old date_time created as 2024-08-01 10:48:00
+new date_time created as 2024-08-01 10:54:00
+new time created as 10:54:00
+job will be run at 10:54
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+ 
+c
+o
+m
+m
+a
+n
+d
+s
+ 
+w
+i
+l
+l
+ 
+b
+e
+ 
+e
+x
+e
+c
+u
+t
+e
+d
+ 
+u
+s
+i
+n
+g
+ 
+/
+b
+i
+n
+/
+s
+h
+
+
+j
+o
+b
+ 
+1
+6
+3
+ 
+a
+t
+ 
+F
+r
+i
+ 
+A
+u
+g
+ 
+ 
+9
+ 
+1
+0
+:
+5
+4
+:
+0
+0
+ 
+2
+0
+2
+4
+
+
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 160
+removing job with id 162
+removing job with id 158
+removing job with id 161
+removing job with id 163
+removing job with id 159
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:49 and duration 1
+create temporary job starting at 10:49:00 for station 2
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:50:00
+new time created as 10:50:00
+job will be run at 10:50
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+6
+4
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+0
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 3
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:51:00
+new time created as 10:51:00
+job will be run at 10:51
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+6
+5
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+1
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 4
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:52:00
+new time created as 10:52:00
+job will be run at 10:52
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+6
+6
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+2
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 5
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:53:00
+new time created as 10:53:00
+job will be run at 10:53
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+6
+7
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+3
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 6
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:54:00
+new time created as 10:54:00
+job will be run at 10:54
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+6
+8
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+4
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 0
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:55:00
+new time created as 10:55:00
+job will be run at 10:55
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+6
+9
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+5
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 165
+removing job with id 167
+removing job with id 166
+removing job with id 168
+removing job with id 164
+removing job with id 169
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:49 and duration 1
+create temporary job starting at 10:49:00 for station 2
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:50:00
+new time created as 10:50:00
+job will be run at 10:50
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+0
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+0
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 3
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:51:00
+new time created as 10:51:00
+job will be run at 10:51
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+1
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+1
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 4
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:52:00
+new time created as 10:52:00
+job will be run at 10:52
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+2
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+2
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 5
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:53:00
+new time created as 10:53:00
+job will be run at 10:53
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+3
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+3
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 6
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:54:00
+new time created as 10:54:00
+job will be run at 10:54
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+4
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+4
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:49:00 for station 0
+old date_time created as 2024-08-01 10:49:00
+new date_time created as 2024-08-01 10:55:00
+new time created as 10:55:00
+job will be run at 10:55
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+5
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+5
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 175
+removing job with id 171
+removing job with id 172
+removing job with id 173
+removing job with id 170
+removing job with id 174
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:50 and duration 1
+create temporary job starting at 10:50:00 for station 2
+old date_time created as 2024-08-01 10:50:00
+new date_time created as 2024-08-01 10:51:00
+new time created as 10:51:00
+job will be run at 10:51
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+6
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+1
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:50:00 for station 3
+old date_time created as 2024-08-01 10:50:00
+new date_time created as 2024-08-01 10:52:00
+new time created as 10:52:00
+job will be run at 10:52
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+7
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+2
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:50:00 for station 4
+old date_time created as 2024-08-01 10:50:00
+new date_time created as 2024-08-01 10:53:00
+new time created as 10:53:00
+job will be run at 10:53
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+8
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+3
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:50:00 for station 5
+old date_time created as 2024-08-01 10:50:00
+new date_time created as 2024-08-01 10:54:00
+new time created as 10:54:00
+job will be run at 10:54
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+7
+9
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+4
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:50:00 for station 6
+old date_time created as 2024-08-01 10:50:00
+new date_time created as 2024-08-01 10:55:00
+new time created as 10:55:00
+job will be run at 10:55
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+0
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+5
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:50:00 for station 0
+old date_time created as 2024-08-01 10:50:00
+new date_time created as 2024-08-01 10:56:00
+new time created as 10:56:00
+job will be run at 10:56
+at generated the following stderr
+at generated the following stdout
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+1
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+6
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 176
+removing job with id 180
+removing job with id 177
+removing job with id 178
+removing job with id 179
+removing job with id 181
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:54 and duration 1
+create temporary job starting at 10:54:00 for station 2
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 10:55:00
+new time created as 10:55:00
+job will be run at 10:55
+at generated the following stdout: 
+at generated the following stderr:
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+2
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+5
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:54:00 for station 3
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 10:56:00
+new time created as 10:56:00
+job will be run at 10:56
+at generated the following stdout: 
+at generated the following stderr:
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+3
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+6
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:54:00 for station 4
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 10:57:00
+new time created as 10:57:00
+job will be run at 10:57
+at generated the following stdout: 
+at generated the following stderr:
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+4
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+7
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:54:00 for station 5
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 10:58:00
+new time created as 10:58:00
+job will be run at 10:58
+at generated the following stdout: 
+at generated the following stderr:
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+5
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+8
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:54:00 for station 6
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 10:59:00
+new time created as 10:59:00
+job will be run at 10:59
+at generated the following stdout: 
+at generated the following stderr:
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+6
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+0
+:
+5
+9
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+create temporary job starting at 10:54:00 for station 0
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 11:00:00
+new time created as 11:00:00
+job will be run at 11:00
+at generated the following stdout: 
+at generated the following stderr:
+w
+a
+r
+n
+i
+n
+g
+:
+
+c
+o
+m
+m
+a
+n
+d
+s
+
+w
+i
+l
+l
+
+b
+e
+
+e
+x
+e
+c
+u
+t
+e
+d
+
+u
+s
+i
+n
+g
+
+/
+b
+i
+n
+/
+s
+h
+
+j
+o
+b
+
+1
+8
+7
+
+a
+t
+
+F
+r
+i
+
+A
+u
+g
+
+
+9
+
+1
+1
+:
+0
+0
+:
+0
+0
+
+2
+0
+2
+4
+
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 187
+removing job with id 185
+removing job with id 186
+removing job with id 182
+removing job with id 184
+removing job with id 183
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:54 and duration 1
+create temporary job starting at 10:54:00 for station 2
+old date_time created as 2024-08-01 10:54:00
+new date_time created as 2024-08-01 10:55:00
+new time created as 10:55:00
+job will be run at 10:55
+at generated the following stdout: 
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:55 and duration 1
+create temporary job starting at 10:55:00 for station 2
+old date_time created as 2024-08-01 10:55:00
+new date_time created as 2024-08-01 10:56:00
+new time created as 10:56:00
+job will be run at 10:56
+at generated the following stdout: 
+
+at generated the following stderr:
+warning: commands will be executed using /bin/sh
+job 189 at Fri Aug  9 10:56:00 2024
+job added to queue
+create temporary job starting at 10:55:00 for station 3
+old date_time created as 2024-08-01 10:55:00
+new date_time created as 2024-08-01 10:57:00
+new time created as 10:57:00
+job will be run at 10:57
+at generated the following stdout: 
+
+at generated the following stderr:
+warning: commands will be executed using /bin/sh
+job 190 at Fri Aug  9 10:57:00 2024
+job added to queue
+create temporary job starting at 10:55:00 for station 4
+old date_time created as 2024-08-01 10:55:00
+new date_time created as 2024-08-01 10:58:00
+new time created as 10:58:00
+job will be run at 10:58
+at generated the following stdout: 
+
+at generated the following stderr:
+warning: commands will be executed using /bin/sh
+job 191 at Fri Aug  9 10:58:00 2024
+job added to queue
+create temporary job starting at 10:55:00 for station 5
+old date_time created as 2024-08-01 10:55:00
+new date_time created as 2024-08-01 10:59:00
+new time created as 10:59:00
+job will be run at 10:59
+at generated the following stdout: 
+
+at generated the following stderr:
+warning: commands will be executed using /bin/sh
+job 192 at Fri Aug  9 10:59:00 2024
+job added to queue
+create temporary job starting at 10:55:00 for station 6
+old date_time created as 2024-08-01 10:55:00
+new date_time created as 2024-08-01 11:00:00
+new time created as 11:00:00
+job will be run at 11:00
+at generated the following stdout: 
+
+at generated the following stderr:
+warning: commands will be executed using /bin/sh
+job 193 at Fri Aug  9 11:00:00 2024
+job added to queue
+create temporary job starting at 10:55:00 for station 0
+old date_time created as 2024-08-01 10:55:00
+new date_time created as 2024-08-01 11:01:00
+new time created as 11:01:00
+job will be run at 11:01
+at generated the following stdout: 
+
+at generated the following stderr:
+warning: commands will be executed using /bin/sh
+job 194 at Fri Aug  9 11:01:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 192
+removing job with id 194
+removing job with id 188
+removing job with id 191
+removing job with id 189
+removing job with id 193
+removing job with id 190
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:56 and duration 1
+create temporary job starting at 10:56:00 for station 2
+old date_time created as 2024-08-01 10:56:00
+new date_time created as 2024-08-01 10:57:00
+new time created as 10:57:00
+job will be run at 10:57
+at generated the following stdout: {str(stdout).rstrip()}
+at generated the following stderr:warning: commands will be executed using /bin/sh
+job 195 at Fri Aug  9 10:57:00 2024
+job added to queue
+create temporary job starting at 10:56:00 for station 3
+old date_time created as 2024-08-01 10:56:00
+new date_time created as 2024-08-01 10:58:00
+new time created as 10:58:00
+job will be run at 10:58
+at generated the following stdout: {str(stdout).rstrip()}
+at generated the following stderr:warning: commands will be executed using /bin/sh
+job 196 at Fri Aug  9 10:58:00 2024
+job added to queue
+create temporary job starting at 10:56:00 for station 4
+old date_time created as 2024-08-01 10:56:00
+new date_time created as 2024-08-01 10:59:00
+new time created as 10:59:00
+job will be run at 10:59
+at generated the following stdout: {str(stdout).rstrip()}
+at generated the following stderr:warning: commands will be executed using /bin/sh
+job 197 at Fri Aug  9 10:59:00 2024
+job added to queue
+create temporary job starting at 10:56:00 for station 5
+old date_time created as 2024-08-01 10:56:00
+new date_time created as 2024-08-01 11:00:00
+new time created as 11:00:00
+job will be run at 11:00
+at generated the following stdout: {str(stdout).rstrip()}
+at generated the following stderr:warning: commands will be executed using /bin/sh
+job 198 at Fri Aug  9 11:00:00 2024
+job added to queue
+create temporary job starting at 10:56:00 for station 6
+old date_time created as 2024-08-01 10:56:00
+new date_time created as 2024-08-01 11:01:00
+new time created as 11:01:00
+job will be run at 11:01
+at generated the following stdout: {str(stdout).rstrip()}
+at generated the following stderr:warning: commands will be executed using /bin/sh
+job 199 at Fri Aug  9 11:01:00 2024
+job added to queue
+create temporary job starting at 10:56:00 for station 0
+old date_time created as 2024-08-01 10:56:00
+new date_time created as 2024-08-01 11:02:00
+new time created as 11:02:00
+job will be run at 11:02
+at generated the following stdout: {str(stdout).rstrip()}
+at generated the following stderr:warning: commands will be executed using /bin/sh
+job 200 at Fri Aug  9 11:02:00 2024
+job added to queue
+disable retic (cancel temporary schedule)
+removing job with id 200
+removing job with id 199
+removing job with id 198
+removing job with id 195
+removing job with id 197
+removing job with id 196
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:57 and duration 1
+create temporary job starting at 10:57:00 for station 2
+old date_time created as 2024-08-01 10:57:00
+new date_time created as 2024-08-01 10:58:00
+new time created as 10:58:00
+job will be run at 10:58
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 201 at Fri Aug  9 10:58:00 2024
+job added to queue
+create temporary job starting at 10:57:00 for station 3
+old date_time created as 2024-08-01 10:57:00
+new date_time created as 2024-08-01 10:59:00
+new time created as 10:59:00
+job will be run at 10:59
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 202 at Fri Aug  9 10:59:00 2024
+job added to queue
+create temporary job starting at 10:57:00 for station 4
+old date_time created as 2024-08-01 10:57:00
+new date_time created as 2024-08-01 11:00:00
+new time created as 11:00:00
+job will be run at 11:00
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 203 at Fri Aug  9 11:00:00 2024
+job added to queue
+create temporary job starting at 10:57:00 for station 5
+old date_time created as 2024-08-01 10:57:00
+new date_time created as 2024-08-01 11:01:00
+new time created as 11:01:00
+job will be run at 11:01
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 204 at Fri Aug  9 11:01:00 2024
+job added to queue
+create temporary job starting at 10:57:00 for station 6
+old date_time created as 2024-08-01 10:57:00
+new date_time created as 2024-08-01 11:02:00
+new time created as 11:02:00
+job will be run at 11:02
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 205 at Fri Aug  9 11:02:00 2024
+job added to queue
+create temporary job starting at 10:57:00 for station 0
+old date_time created as 2024-08-01 10:57:00
+new date_time created as 2024-08-01 11:03:00
+new time created as 11:03:00
+job will be run at 11:03
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 206 at Fri Aug  9 11:03:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 202
+removing job with id 201
+removing job with id 204
+removing job with id 203
+removing job with id 205
+removing job with id 206
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push new temporary schedule starting at 10:58 and duration 3
+create temporary job starting at 10:58:00 for station 2
+old date_time created as 2024-08-01 10:58:00
+new date_time created as 2024-08-01 11:01:00
+new time created as 11:01:00
+job will be run at 11:01
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 207 at Fri Aug  9 11:01:00 2024
+job added to queue
+create temporary job starting at 10:58:00 for station 3
+old date_time created as 2024-08-01 10:58:00
+new date_time created as 2024-08-01 11:04:00
+new time created as 11:04:00
+job will be run at 11:04
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 208 at Fri Aug  9 11:04:00 2024
+job added to queue
+create temporary job starting at 10:58:00 for station 4
+old date_time created as 2024-08-01 10:58:00
+new date_time created as 2024-08-01 11:07:00
+new time created as 11:07:00
+job will be run at 11:07
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 209 at Fri Aug  9 11:07:00 2024
+job added to queue
+create temporary job starting at 10:58:00 for station 5
+old date_time created as 2024-08-01 10:58:00
+new date_time created as 2024-08-01 11:10:00
+new time created as 11:10:00
+job will be run at 11:10
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 210 at Fri Aug  9 11:10:00 2024
+job added to queue
+create temporary job starting at 10:58:00 for station 6
+old date_time created as 2024-08-01 10:58:00
+new date_time created as 2024-08-01 11:13:00
+new time created as 11:13:00
+job will be run at 11:13
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 211 at Fri Aug  9 11:13:00 2024
+job added to queue
+create temporary job starting at 10:58:00 for station 0
+old date_time created as 2024-08-01 10:58:00
+new date_time created as 2024-08-01 11:16:00
+new time created as 11:16:00
+job will be run at 11:16
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 212 at Fri Aug  9 11:16:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+disable retic (cancel temporary schedule)
+removing job with id 210
+removing job with id 212
+removing job with id 207
+removing job with id 208
+removing job with id 209
+removing job with id 211
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+push update for schedule 1
+enable 10 11 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 20 11 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 30 11 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 40 11 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 50 11 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 0 12 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 10 12 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 45 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 0 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 15 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 30 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 0 7 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 11, minute 10, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 45 5 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 0 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 15 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 30 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 6 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 0 7 * * MON,WED,FRI root /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * TUE,FRI root /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status True
+push update for schedule 2
+enable 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+enable 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+enable 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+enable 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+enable 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+enable 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+enable 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 3
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+push update for schedule 1
+disable # 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+disable # 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+disable # 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+disable # 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+disable # 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+disable # 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+push update for schedule 3
+disable # 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+push update for schedule 3
+disable # 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 45 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 15 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 30 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 0 7 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 45 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 15 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 30 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 0 7 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * TUE,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 15, and status False
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 33 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 36 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 39 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 42 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 48 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 33 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 36 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 39 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 42 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 48 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+push update for schedule 1
+enable 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+enable 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+enable 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+enable 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+enable 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+enable 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+enable 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 6:47 and duration 7
+create temporary job starting at 06:47:00 for station 0
+old date_time created as 2024-08-01 06:47:00
+new date_time created as 2024-08-01 06:54:00
+new time created as 06:54:00
+job will be run at 06:54
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 213 at Fri Aug 16 06:54:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 213
+disable retic (cancel temporary schedule)
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 6:48 and duration 7
+create temporary job starting at 06:48:00 for station 0
+old date_time created as 2024-08-01 06:48:00
+new date_time created as 2024-08-01 06:55:00
+new time created as 06:55:00
+job will be run at 06:55
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 214 at Fri Aug 16 06:55:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 214
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 6:50 and duration 7
+create temporary job starting at 06:50:00 for station 0
+old date_time created as 2024-08-01 06:50:00
+new date_time created as 2024-08-01 06:57:00
+new time created as 06:57:00
+job will be run at 06:57
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 215 at Fri Aug 16 06:57:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 215
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 7:14 and duration 1
+create temporary job starting at 07:14:00 for station 0
+old date_time created as 2024-08-01 07:14:00
+new date_time created as 2024-08-01 07:15:00
+new time created as 07:15:00
+job will be run at 07:15
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 216 at Fri Aug 16 07:15:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 216
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 7:14 and duration 1
+create temporary job starting at 07:14:00 for station 0
+old date_time created as 2024-08-01 07:14:00
+new date_time created as 2024-08-01 07:15:00
+new time created as 07:15:00
+job will be run at 07:15
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 217 at Fri Aug 16 07:15:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 217
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 7:15 and duration 1
+create temporary job starting at 07:15:00 for station 0
+old date_time created as 2024-08-01 07:15:00
+new date_time created as 2024-08-01 07:16:00
+new time created as 07:16:00
+job will be run at 07:16
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 218 at Fri Aug 16 07:16:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 7:15 and duration 10
+create temporary job starting at 07:15:00 for station 0
+old date_time created as 2024-08-01 07:15:00
+new date_time created as 2024-08-01 07:25:00
+new time created as 07:25:00
+job will be run at 07:25
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 219 at Fri Aug 16 07:25:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 218
+removing job with id 219
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:30 and duration 1
+create temporary job starting at 09:30:00 for station 0
+old date_time created as 2024-08-01 09:30:00
+new date_time created as 2024-08-01 09:31:00
+new time created as 09:31:00
+job will be run at 09:31
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 220 at Fri Aug 16 09:31:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 220
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:31 and duration 1
+create temporary job starting at 09:31:00 for station 0
+old date_time created as 2024-08-01 09:31:00
+new date_time created as 2024-08-01 09:32:00
+new time created as 09:32:00
+job will be run at 09:32
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 221 at Fri Aug 16 09:32:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 221
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:32 and duration 1
+create temporary job starting at 09:32:00 for station 0
+old date_time created as 2024-08-01 09:32:00
+new date_time created as 2024-08-01 09:33:00
+new time created as 09:33:00
+job will be run at 09:33
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 222 at Fri Aug 16 09:33:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 222
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:35 and duration 1
+create temporary job starting at 09:35:00 for station 0
+old date_time created as 2024-08-01 09:35:00
+new date_time created as 2024-08-01 09:36:00
+new time created as 09:36:00
+job will be run at 09:36
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 223 at Fri Aug 16 09:36:00 2024
+job added to queue
+disable retic (cancel temporary schedule)
+removing job with id 223
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:37 and duration 1
+create temporary job starting at 09:37:00 for station 0
+old date_time created as 2024-08-01 09:37:00
+new date_time created as 2024-08-01 09:38:00
+new time created as 09:38:00
+job will be run at 09:38
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 224 at Fri Aug 16 09:38:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 224
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:37 and duration 1
+create temporary job starting at 09:37:00 for station 0
+old date_time created as 2024-08-01 09:37:00
+new date_time created as 2024-08-01 09:38:00
+new time created as 09:38:00
+job will be run at 09:38
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 225 at Fri Aug 16 09:38:00 2024
+job added to queue
+disable retic (cancel temporary schedule)
+removing job with id 225
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:38 and duration 1
+create temporary job starting at 09:38:00 for station 0
+old date_time created as 2024-08-01 09:38:00
+new date_time created as 2024-08-01 09:39:00
+new time created as 09:39:00
+job will be run at 09:39
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 226 at Fri Aug 16 09:39:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 226
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:38 and duration 1
+create temporary job starting at 09:38:00 for station 0
+old date_time created as 2024-08-01 09:38:00
+new date_time created as 2024-08-01 09:39:00
+new time created as 09:39:00
+job will be run at 09:39
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 227 at Fri Aug 16 09:39:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 227
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:38 and duration 1
+create temporary job starting at 09:38:00 for station 0
+old date_time created as 2024-08-01 09:38:00
+new date_time created as 2024-08-01 09:39:00
+new time created as 09:39:00
+job will be run at 09:39
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 228 at Fri Aug 16 09:39:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 228
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:39 and duration 1
+create temporary job starting at 09:39:00 for station 0
+old date_time created as 2024-08-01 09:39:00
+new date_time created as 2024-08-01 09:40:00
+new time created as 09:40:00
+job will be run at 09:40
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 229 at Fri Aug 16 09:40:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 229
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:40 and duration 1
+create temporary job starting at 09:40:00 for station 0
+old date_time created as 2024-08-01 09:40:00
+new date_time created as 2024-08-01 09:41:00
+new time created as 09:41:00
+job will be run at 09:41
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 230 at Fri Aug 16 09:41:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 230
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:40 and duration 1
+create temporary job starting at 09:40:00 for station 0
+old date_time created as 2024-08-01 09:40:00
+new date_time created as 2024-08-01 09:41:00
+new time created as 09:41:00
+job will be run at 09:41
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 231 at Fri Aug 16 09:41:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 231
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:42 and duration 1
+create temporary job starting at 09:42:00 for station 0
+old date_time created as 2024-08-01 09:42:00
+new date_time created as 2024-08-01 09:43:00
+new time created as 09:43:00
+job will be run at 09:43
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 232 at Fri Aug 16 09:43:00 2024
+job added to queue
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+disable retic (cancel temporary schedule)
+removing job with id 232
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push new temporary schedule starting at 9:46 and duration 1
+create temporary job starting at 09:46:00 for station 0
+old date_time created as 2024-08-01 09:46:00
+new date_time created as 2024-08-01 09:47:00
+new time created as 09:47:00
+job will be run at 09:47
+at generated the following stderr: warning: commands will be executed using /bin/sh
+job 233 at Fri Aug 16 09:47:00 2024
+job added to queue
+disable retic (cancel temporary schedule)
+removing job with id 233
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status True
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+push update for schedule 1
+disable # 0 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_1_1
+disable # 10 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_1_2
+disable # 20 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_1_3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_1_4
+disable # 40 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_1_5
+disable # 50 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_1_6
+disable # 0 6 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_1_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+push update for schedule 3
+disable # 30 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_3_1
+disable # 33 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_3_2
+disable # 36 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_3_3
+disable # 39 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_3_4
+disable # 42 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_3_5
+disable # 45 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_3_6
+disable # 48 5 * * MON,WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_3_off
+write cron changes
+write cron changes
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+push update for schedule 2
+disable # 0 6 * * WED,FRI /usr/lib/Retic_Controller/retic 1 # schedule_2_1
+disable # 7 6 * * WED,FRI /usr/lib/Retic_Controller/retic 2 # schedule_2_2
+disable # 14 6 * * WED,FRI /usr/lib/Retic_Controller/retic 3 # schedule_2_3
+disable # 21 6 * * WED,FRI /usr/lib/Retic_Controller/retic 4 # schedule_2_4
+disable # 28 6 * * WED,FRI /usr/lib/Retic_Controller/retic 5 # schedule_2_5
+disable # 35 6 * * WED,FRI /usr/lib/Retic_Controller/retic 6 # schedule_2_6
+disable # 42 6 * * WED,FRI /usr/lib/Retic_Controller/retic 0 # schedule_2_off
+write cron changes
+write cron changes
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False
+request getJobSpec for schedule number 1
+found job!
+found job!
+creating new JobSpec with hour 5, minute 0, duration 10, and status False
+request getJobSpec for schedule number 2
+found job!
+found job!
+creating new JobSpec with hour 6, minute 0, duration 7, and status False
+request getJobSpec for schedule number 3
+found job!
+found job!
+creating new JobSpec with hour 5, minute 30, duration 3, and status False

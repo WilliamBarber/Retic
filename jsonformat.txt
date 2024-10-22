@@ -1,0 +1,10 @@
+{
+"schedule_number": int,
+"job_spec": {
+	"days_of_week": ["STR","STR","STR"],
+	"start_hour": int,
+	"start_minute": int,
+	"duration": int,
+	"enabled": bool,
+	},
+}
