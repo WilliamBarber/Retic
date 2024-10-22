@@ -6,7 +6,7 @@ sys.path.append('/usr/lib/Retic_Controller/python')
 from schedule import pushScheduleUpdate, JobSpec
 from crontab import CronTab
 
-schedule_number = int(os.environ.get('PATH_INFO')[1:]) 
+schedule_number = int(os.environ.get('PATH_INFO')[1:])
 schedule_info = json.load(sys.stdin)
 
 days_of_week = schedule_info['days_of_week']
